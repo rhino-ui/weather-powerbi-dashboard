@@ -22,3 +22,4 @@ The dashboard provides:
 
 ## 📷 Screenshots
 ![Dashboard Overview](Line_chart_view.jpg)
+![Card View](Card_view.png)
