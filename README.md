@@ -21,4 +21,4 @@ The dashboard provides:
 4. Refresh → see live data
 
 ## 📷 Screenshots
-![Dashboard Overview](images/dashboard.png)
+![Dashboard Overview](Line_chart_view.jpg)
